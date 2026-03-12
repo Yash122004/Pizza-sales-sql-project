@@ -1,0 +1,9 @@
+order_id,order_date,order_time,pizza_name,category,quantity,price
+1,2024-01-01,12:30,Margherita,Veg,2,250
+2,2024-01-01,13:00,Pepperoni,Non Veg,1,350
+3,2024-01-01,19:00,Farmhouse,Veg,3,300
+4,2024-01-02,18:30,BBQ Chicken,Non Veg,2,400
+5,2024-01-02,20:00,Paneer Tikka,Veg,1,320
+6,2024-01-03,21:00,Margherita,Veg,2,250
+7,2024-01-03,12:15,Farmhouse,Veg,1,300
+8,2024-01-04,19:45,Pepperoni,Non Veg,2,350
